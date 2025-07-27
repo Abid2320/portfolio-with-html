@@ -14,6 +14,6 @@ This is a simple and clean personal profile page built using HTML5 and semantic 
 
 ## 🔗 Live Preview
 
-[View it on GitHub Pages](https://yourusername.github.io/personal-profile-page/)
+[View it on GitHub Pages](https://abid2320.github.io/portfolio-with-html/)
 
 
